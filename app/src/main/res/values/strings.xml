@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Visual Intelligence</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="calculate_pi">Calculate</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="internal_storage">Internal Storage</string>
+    <string name="select_picture">Select Picture</string>
+    <string-array name="imagePicker">
+        <item>From Gallery</item>
+        <item>From Camera</item>
+    </string-array>
+</resources>
